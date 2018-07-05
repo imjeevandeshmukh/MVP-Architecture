@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SampleMvpArchitecture</string>
+    <string-array name="somelist">
+        <item>Mvp</item>
+        <item>Mvvm</item>
+        <item>Mvvm</item>
+        <item>Mvvm</item>
+        <item>Mvvm</item>
+        <item>Mvvm</item>
+        <item>Mvvm</item>
+    </string-array>
+</resources>
